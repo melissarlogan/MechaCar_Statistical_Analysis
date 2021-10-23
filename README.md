@@ -64,22 +64,22 @@ Like the PSI discussion above, lot 3 shows the most variability with the sample 
 
 ## Study Design: MechaCar vs Competition
 
-- Summary
 In today's world many consumers are becoming more environmentally conscious and price sensitive. miles per gallon is key for individuals who want to get the most out of their money spent on fuel, and who also are concerned with the planets health and are looking to burn less fossil fuel when travelling. 
 
+
 - What metric or metrics are you going to test?
-I would be testing the mpg of MechaCar compared to their competitors
+    I would be testing the mpg of MechaCar compared to their competitors
 
 - What is the null hypothesis or alternative hypothesis?
 
-H0: MechaCar prototypes' average mpg is similar to competitor's vehicles in the same vehicle class 
-Ha: MechaCar prototypes' average mpg is statistically above or below that of competitor vehicles.
+    H0: MechaCar prototypes' average mpg is similar to competitor's vehicles in the same vehicle class 
+    Ha: MechaCar prototypes' average mpg is statistically above or below that of competitor vehicles.
 
 - What statistical test would you use to test the hypothesis? And why?
-I would test this using a two-sample t test as I would be looking to see if the average mpg per the two manufactures was statistically different.
+    I would test this using a two-sample t test as I would be looking to see if the average mpg per the two manufactures was statistically different.
 
 
 - What data is needed to run the statistical test?
-I would need the mpg from their top competitor as well as the mpg from MechaCar for their varying vehicle types.
+    I would need the mpg from their top competitor as well as the mpg from MechaCar for their varying vehicle types.
 
 
