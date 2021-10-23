@@ -68,6 +68,7 @@ In today's world many consumers are becoming more environmentally conscious and 
 
 
 - What metric or metrics are you going to test?
+
     I would be testing the mpg of MechaCar compared to their competitors
 
 - What is the null hypothesis or alternative hypothesis?
@@ -76,10 +77,12 @@ In today's world many consumers are becoming more environmentally conscious and 
     Ha: MechaCar prototypes' average mpg is statistically above or below that of competitor vehicles.
 
 - What statistical test would you use to test the hypothesis? And why?
+
     I would test this using a two-sample t test as I would be looking to see if the average mpg per the two manufactures was statistically different.
 
 
 - What data is needed to run the statistical test?
+
     I would need the mpg from their top competitor as well as the mpg from MechaCar for their varying vehicle types.
 
 
