@@ -34,3 +34,32 @@ Per the Lot summary this shows that while in total it doesn’t exceed the 100-p
 ![image](https://user-images.githubusercontent.com/85718354/138564891-0d3e5284-820c-4da9-a624-a15123a53a80.png)
 
 
+## T-Tests on Suspension Coils
+
+- T-Test on Total
+
+When looking at the T-test across the total population, the mean is 1498.
+
+
+![image](https://user-images.githubusercontent.com/85718354/138565068-37a3b397-8c31-4d78-9edb-4567a72b165e.png)
+
+When you run the same test on the varying lots the below is found
+
+Lot 1
+
+![image](https://user-images.githubusercontent.com/85718354/138565099-70037d79-d1be-402e-a157-0aaef4b267fa.png)
+
+
+Lot 2
+
+![image](https://user-images.githubusercontent.com/85718354/138565121-1f9418e3-876a-4697-abae-bcedd19b00ad.png)
+
+
+Lot 3
+
+![image](https://user-images.githubusercontent.com/85718354/138565140-377cc261-767f-4847-808c-51d824f6dafb.png)
+
+
+Like the PSI discussion above, lot 3 shows the most variability with the sample mean of x being 1496, with Lot 1 and 2 being 1,500. This is again showing the variability in lot 3 causing the shift in the total summary.
+
+
